@@ -221,7 +221,7 @@ const Tarjeta = () => {
 
             
             <div className={`${styles.imgContainer} ${styles.contenedorImagen}`}>
-                <Heading>BTV calculator</Heading>
+                <Heading>BTU calculator</Heading>
                 <img src={imagen} alt="Mi imagen" />
             </div>
 
@@ -293,7 +293,7 @@ const Tarjeta = () => {
             >
             <Heading width='10vw'>Resultados</Heading>
             <Box width='30vw'>
-                <Text fontSize='2xl'>Los BTV necesarios son: {btv}</Text>
+                <Text fontSize='2xl'>Los BTU necesarios son: {btv}</Text>
                 <Text fontSize='2xl'>Las tipologías son: {tipoAire}</Text>
             </Box>
             
