@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BTVCalculator/static/css/main.6bf01340.css",
+    "main.js": "/BTVCalculator/static/js/main.badee383.js",
+    "static/js/651.a543a249.chunk.js": "/BTVCalculator/static/js/651.a543a249.chunk.js",
+    "static/media/aire-acondicionado.png": "/BTVCalculator/static/media/aire-acondicionado.3967f5fede8d600bb08b.png",
+    "index.html": "/BTVCalculator/index.html",
+    "main.6bf01340.css.map": "/BTVCalculator/static/css/main.6bf01340.css.map",
+    "main.badee383.js.map": "/BTVCalculator/static/js/main.badee383.js.map",
+    "651.a543a249.chunk.js.map": "/BTVCalculator/static/js/651.a543a249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf01340.css",
+    "static/js/main.badee383.js"
+  ]
+}
